@@ -1,30 +1,38 @@
 # :wave: Hi, I'm Anton Podobed
-### Junior front-end developer, 23 years old
+### Junior front-end developer, 24 years old
 
 ## :scroll: About Me
 
+* *I love in Mogilev*
+* *I like play in volleboll, run and play the guitar*
 * *I take a responsible approach to the performance of my official duties*
 * *I quickly master new skills*
 * *Able to withstand a busy work schedule*
 * *Punctual*
 * *Level of english: A2*
-* *I'm currently taking a front-end course at EPAM*
 
 ## :heavy_check_mark: Skills
 
 * [x] **HTML**
 * [x] **CSS**
+* [x] **SASS/SCSS**
 * [x] **Adaptive layout**
 * [x] **Cross-browser layout**
 * [x] **Development according to the BEM methodology**
 * [x] **JavaScript**
 * [x] **Git**
+* [x] **Angular**
+* [x] **TypeScript**
+* [x] **WebPack**
 * [ ] **React**
 
 ## :office: Education
 
 >2015-2019 Mogilev State University of Food Technologies
 >>Specialty software engineer
+
+>2021 EPAM Training Center
+>>Specialty Frontend Develop (certificate)
 
 ## :eyes: Сontacts
 
