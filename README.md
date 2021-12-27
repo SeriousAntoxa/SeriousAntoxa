@@ -3,7 +3,7 @@
 
 ## :scroll: About Me
 
-* *I love in Mogilev*
+* *I live in Mogilev*
 * *I like play in volleboll, run and play the guitar*
 * *I take a responsible approach to the performance of my official duties*
 * *I quickly master new skills*
