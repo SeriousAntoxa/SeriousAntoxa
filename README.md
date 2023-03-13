@@ -1,5 +1,5 @@
-# :wave: Hi, I'm Anton Podobed
-### Junior front-end developer, 24 years old
+# :wave: Hi! My name is Anton Podobed
+### I'm 25 years old and I'm a front-end developer :)
 
 ## :scroll: About Me
 
@@ -24,7 +24,8 @@
 * [x] **Angular**
 * [x] **TypeScript**
 * [x] **WebPack**
-* [ ] **React**
+* [x] **React**
+* [x] **Redux**
 
 ## :office: Education
 
